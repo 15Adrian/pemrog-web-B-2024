@@ -1,0 +1,25 @@
+
+
+h3
+{
+    color: green;
+    font-size: 15px;
+}
+
+.gayatombol
+{
+    background-color: #8caf50;
+    color: white;
+    margin-left: 200px;
+    padding: 8px 16px;
+    padding: 8px 16px 4px 10px; /*top right bottom left*/
+    padding: 8px; /*top-bottom-right-left*/
+    padding: 8px auto; /*top-bottom-right-left*/
+    border-style: solid 1px; 
+}
+
+#gayaTombolLagi
+{
+    background-color: green;
+    color: red;
+}
