@@ -1,0 +1,104 @@
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0 55px;
+    background-color: #fff;
+}
+
+.container {
+    background: #fff;
+    width: 1250px;
+    margin: 3% 7%;
+}
+
+.header {
+    height: 80px;
+    background: #fff;
+}
+
+.headr-logo {
+    font-size: 25px;
+    float: left;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-right: 400px;
+    margin-left: 30px;
+}
+
+.header-logo img {
+    float: left;
+}
+
+.header-logo p {
+    float: left;
+    font-size: 30px;
+    margin-top: 22px;
+    margin-left: 2%;
+    font-weight: bold;
+}
+
+.header-list li {
+    float: right;
+    padding: 33px 17px;
+    text-decoration: none;
+    list-style: none;
+    font-weight: bold;
+
+}
+
+.header-list .shop {
+    font-size: 18px;
+    color: rgb(175, 100, 2);
+    font-weight: bold;
+}
+
+.main {
+    width: 1100px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.main h1 {
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+}
+
+.main p {
+    width: 800px;
+    margin: 32px auto;
+    text-align: center;
+    font-size: 19px;
+}
+
+.gambar {
+    text-align: center;
+}
+
+.produk {
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 13px;
+    float: left;
+    border: 3px solid #ddd;
+}
+
+.produk h3 {
+    font-size: 25px;
+}
+
+.produk p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+.produk button {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+    background-color: rgb(197, 178, 178);
+    width: 170px;
+    padding: 5px;
+}
